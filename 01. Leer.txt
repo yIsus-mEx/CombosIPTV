@@ -1,0 +1,11 @@
+Los archvios "Combo" son archivos .txt que constan de usuarios y contraseñas iguales, es decir, solo viene una columna que sirve para usuario y contraseña
+a la hora de aplicar el archivo en el checker, es decir, el checker usa el mismo usuario y contraseña por defecto.
+
+El archivo ComboCompleto es la lista con todos los combos simples que se van añadiendo al repositorio, es decir, ComboCompleto tiene todos los usuarios y contraseñas de Combo1
++ Comobo2 + Combo3....
+
+Los archivos Premium son archivos .txt que constran de usuarios y contraseñas diferentes, es decir, tienen distintos usuarios a las contraseñas y, a la hora de aplicar el archivo
+ en el checker, el checker usa el primer valor como usuario y el segundo como contraseña.
+
+El archivo PremiumComboCompleto es la lista con todos los combos Premium que se van añadiendo al repositorio, es decir, PremiumComboCompleto tiene todos los usuarios y
+contraseñas de Premium1+Premium2+Premium3+PremiumMini....
